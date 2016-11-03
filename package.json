@@ -1,0 +1,19 @@
+{
+  "name": "oauth2-dialog",
+  "version": "1.0.0",
+  "description": "oauth2-dialog",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "author": {
+    "name": "Fredrik A. Kristiansen",
+    "email": "fredrikaxk@gmail.com"
+  },
+  "license":  "ISC" ,
+  "engines": {
+    "node": ">= 6.9"
+  },
+  "repository": "github:FredrikAleksander/oauth2-dialog",
+  "dependencies": {
+    "electron": "^1.4.5"
+  }
+}

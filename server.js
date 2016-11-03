@@ -1,4 +1,4 @@
-﻿var Buffer = require('buffer').Buffer;
+var Buffer = require('buffer').Buffer;
 var http = require('http');
 var login = require('./lib/login').login;
 

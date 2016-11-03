@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env node
+#!/usr/bin/env node
 
 const { login } = require('./lib/login');
 const { settings, parseCommandLine } = require('./settings');

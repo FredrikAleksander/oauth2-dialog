@@ -1,4 +1,4 @@
-﻿var login = require('./lib/login').login;
+var login = require('./lib/login').login;
 var settings = require('./settings').settings;
 var parseCommandLine = require('./settings').parseCommandLine;
 var listen = require('./server').listen;

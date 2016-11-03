@@ -1,4 +1,4 @@
-﻿var electron = require('electron');
+var electron = require('electron');
 var app = electron.app, BrowserWindow = electron.BrowserWindow;
 
 const path = require('path');

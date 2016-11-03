@@ -1,4 +1,4 @@
-﻿var settings = {
+var settings = {
     endpoint: null,
     flow: 'implicit',
     clientId: null,

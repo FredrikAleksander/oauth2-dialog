@@ -1,6 +1,6 @@
 {
   "name": "oauth2-dialog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "oauth2-dialog",
   "main": "index.js",
   "bin": "./cli.js",
@@ -8,7 +8,7 @@
     "name": "Fredrik A. Kristiansen",
     "email": "fredrikaxk@gmail.com"
   },
-  "license":  "ISC" ,
+  "license": "ISC",
   "engines": {
     "node": ">= 6.9"
   },
